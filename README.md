@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me 
 
 <!--
 **Mahesh-pareek/Mahesh-pareek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Mahesh Pareek 👋
+
+- 🔭 I’m currently working on **robotics** and **probability modeling**.  
+- 🤝 Always open to **collaboration on tech projects**.  
+- 💬 Ask me about **data structures**, **stochastic processes**, or **infrared-based tech**.  
+- 😄 Fun fact: I’m a tech enthusiast with a knack for humor (code name: *iek*).  
+- 🐾 Proud parent of my kitten **Nigglu**.  
+
+📫 **Let's Connect**:  
+- Email: [YourEmail@example.com](mailto:maheshpareek2005@gmail.com)  
+- LinkedIn: [YourLinkedIn](https://linkedin.com/in/mahesh-pareek15)  
+<!-- 
+- Website: [YourWebsite](https://YourWebsite.com) 
+⚡ **Quote**: "Technology is best when it brings people together." 
+-->
+
+ 
