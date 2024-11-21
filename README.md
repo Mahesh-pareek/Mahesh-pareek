@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 🐾 Proud parent of my kitten **Nigglu**.  
 
 📫 **Let's Connect**:  
-- Email: [YourEmail@example.com](mailto:maheshpareek2005@gmail.com)  
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/mahesh-pareek15)  
+- Email: [Mail_here](mailto:maheshpareek2005@gmail.com)  
+- LinkedIn: [Mahesh-Pareek](https://linkedin.com/in/mahesh-pareek15)  
 <!-- 
 - Website: [YourWebsite](https://YourWebsite.com) 
 ⚡ **Quote**: "Technology is best when it brings people together." 
