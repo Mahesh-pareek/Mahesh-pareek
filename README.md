@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **robotics** and **probability modeling**.  
 - 🤝 Always open to **collaboration on tech projects**.  
-- 💬 Ask me about **data structures**, **stochastic processes**, or **infrared-based tech**.  
-- 😄 Fun fact: I’m a tech enthusiast with a knack for humor (code name: *iek*).  
-- 🐾 Proud parent of my kitten **Nigglu**.  
 
 📫 **Let's Connect**:  
 - Email: [Mail_here](mailto:maheshpareek2005@gmail.com)  
